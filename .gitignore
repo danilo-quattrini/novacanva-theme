@@ -1,3 +1,9 @@
+# Ignore OS file
+.DS_Store
+
+# Skip IDE editor files
+.idea/
+.vscode/
 # Created by https://gitignore.org
 # WordPress.gitignore
 
